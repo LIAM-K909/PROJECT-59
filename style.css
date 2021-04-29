@@ -1,0 +1,40 @@
+body
+{
+  text-align: center;
+  background: liner-gradient(#E1BEE7 0%, #90CAF9 100%);
+  background-repeat: no-repeat;
+}
+h1
+{
+  text-shadow: 2px 2px #F8BBD0;
+  font-size: 20;
+}
+img
+{
+  border-radius: 50%;
+  width: 800px;
+}
+p
+{
+  font-size: 20px;
+  color: blue;
+}
+#menu
+{
+    font-family: fantasy;
+    list-style: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: chartreuse; 
+}
+#platforms
+{
+    font-family: inherit;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+
